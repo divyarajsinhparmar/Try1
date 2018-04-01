@@ -1,2 +1,2 @@
 # Try1
-checking the functionality
+checking the functionality of GitHub
